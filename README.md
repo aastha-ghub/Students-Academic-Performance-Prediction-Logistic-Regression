@@ -1,2 +1,3 @@
 # Students-Academic-Performance-Prediction-Logistic-Regression
 Students Academic Performance Prediction Case Study using logistic regression in ML
+The real goal is to have an overview of the systems of artificial intelligence that were used to predict academic learning. This research also focuses on how to classify the most relevant attributes in student data by using prediction algorithm. Using educational machine learning methods, we could potentially improve the performance and progress of students more efficiently in an efficient manner. Students, educator and academic institutions could benefit and also have an impact.
